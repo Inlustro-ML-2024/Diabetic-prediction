@@ -1,3 +1,6 @@
+Refere youtube link :
+https://www.youtube.com/watch?v=styL42X-7hU
+
 # Diabetic-prediction
 Using machine learning approach we are predicting whether a patient is diabetic or not using SVM algorithm.
 
